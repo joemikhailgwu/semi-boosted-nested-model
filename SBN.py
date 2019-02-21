@@ -11,8 +11,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.model_selection import KFold
 from sklearn.preprocessing import normalize, StandardScaler, MinMaxScaler, minmax_scale
 
-from imblearn.over_sampling import SMOTE, RandomOverSampler, ADASYN
-from imblearn.under_sampling import NearMiss, RandomUnderSampler
+from imblearn.under_sampling import RandomUnderSampler
 from imblearn.metrics import sensitivity_score, geometric_mean_score, specificity_score
 
 from datetime import date, datetime
