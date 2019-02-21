@@ -1,29 +1,21 @@
-from sklearn.svm import SVC
-from sklearn.naive_bayes import  GaussianNB, MultinomialNB, BernoulliNB
+
 from sklearn.tree import DecisionTreeClassifier
-from sklearn.neural_network import MLPClassifier
 from sklearn.ensemble import BaggingClassifier, RandomForestClassifier, AdaBoostClassifier
 from sklearn.multiclass import OneVsRestClassifier
-
-
 from sklearn.metrics import roc_auc_score, cohen_kappa_score, precision_score
 from sklearn.metrics import confusion_matrix, f1_score
 from sklearn.metrics import accuracy_score
 from sklearn.metrics import recall_score, roc_curve
-
 from sklearn.model_selection import train_test_split
 from sklearn.model_selection import KFold
-
 from sklearn.preprocessing import normalize, StandardScaler, MinMaxScaler, minmax_scale
-
-from sklearn.neighbors import KNeighborsClassifier
-from scipy import stats
 
 from imblearn.over_sampling import SMOTE, RandomOverSampler, ADASYN
 from imblearn.under_sampling import NearMiss, RandomUnderSampler
 from imblearn.metrics import sensitivity_score, geometric_mean_score, specificity_score
 
 from datetime import date, datetime
+from scipy import stats
 
 import time
 import numpy as np
