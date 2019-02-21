@@ -1,3 +1,4 @@
+#semi-boosted nested model, joe mikhail-george washington university
 
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.ensemble import BaggingClassifier, RandomForestClassifier, AdaBoostClassifier
