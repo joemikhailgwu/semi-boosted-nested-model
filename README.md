@@ -4,5 +4,7 @@ Code for "A Semi-Boosted Nested Model with Sensitivity-based Weighted Binarizati
 Note: Still requires cleanup/documentation
 
 Macro-Average Performance for Tested Datasets using b=5:
+
 NSL-KDD: 92.31% TPR, 0.07% FPR (Pruning = True)
+
 AWID 802.11: 86.34% TPR, 3.48% FPR (Pruning = False)
