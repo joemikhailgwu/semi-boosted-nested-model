@@ -5,6 +5,13 @@ Note: Still requires cleanup/documentation
 
 Macro-Average Performance for Tested Datasets using b=5:
 
-NSL-KDD: 92.31% TPR, 0.07% FPR (Pruning = True)
+NSL-KDD (50%/50% Training Set Split, Pruning = True): 92.31% TPR, 0.07% FPR
 
-AWID 802.11: 86.34% TPR, 3.48% FPR (Pruning = False)
+AWID 802.11 (Training/Test sets, Pruning = False): 86.34% TPR, 3.48% FPR
+
+------------------------------------------------------------------------------
+
+Other dataset results:
+UNSW-NB15 (50%/50% Training/Test Split, b=20, Pruning=True): 
+    ->Normal Traffic Performance: TPR, FPR (Pruning
+
