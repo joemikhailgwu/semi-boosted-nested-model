@@ -17,6 +17,6 @@ Other dataset results (not in paper) -- Macro-Average Performance for Tested Dat
 
         ->Normal Traffic Detection: 90.0% TPR, 1.80% FPR
 
-    ->New Gas Pipeline (Ian Turnipseed/Tommy Morris) (50%/50% Training Set Split, b=5, Pruning = True): 90.29% TPR, 1.52% FPR
+    ->New Gas Pipeline (Ian Turnipseed/Tommy Morris) (50%/50% Training Set Split, b=5, Pruning=True): 90.29% TPR, 1.52% FPR
     
   
