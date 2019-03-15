@@ -12,6 +12,7 @@ AWID 802.11 (Training/Test sets, Pruning = False): 86.34% TPR, 3.48% FPR
 ------------------------------------------------------------------------------
 
 Other dataset results:
+
 UNSW-NB15 (50%/50% Training/Test Split, b=20, Pruning=True): 
     ->Normal Traffic Performance: TPR, FPR (Pruning
 
