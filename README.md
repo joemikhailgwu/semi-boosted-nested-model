@@ -13,7 +13,7 @@ Macro-Average Performance for Tested Datasets using b=5:
 
 Other dataset results:
 
-    ->UNSW-NB15 (50%/50% Training/Test Split, b=20, Pruning=True): 
+    ->UNSW-NB15 (50%/50% Training/Test Split, b=20, Pruning=True): 56.35% TPR, 2.21% FPR
 
-        ->Normal Traffic Performance: TPR, FPR
+        ->Normal Traffic Performance: 90.0% TPR, 1.80% FPR
 
