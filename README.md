@@ -11,7 +11,7 @@ Macro-Average Performance for Tested Datasets using b=5:
 
 ------------------------------------------------------------------------------
 
-Other dataset results (not in paper) -- Macro-Average Performance for Tested Datasets using b=20:
+Other dataset results (not in paper) -- Macro-Average Performance for Tested Datasets:
 
     ->UNSW-NB15 (50%/50% Training Set Split, b=20, Pruning=True): 56.35% TPR, 2.21% FPR
 
